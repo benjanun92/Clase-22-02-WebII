@@ -1,0 +1,26 @@
+*{
+    margin: 25px;
+}
+body{
+    font-family: Tahoma;
+    background-color: yellow;
+}
+h1{
+    border-radius: 25px;
+    border: 10px;
+    border-style: solid;
+    padding: 10px;
+    color:blue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+p{
+    color: red;
+    background: aquamarine;
+    text-align: justify;
+}
+img{
+    width: 30%;
+} 
